@@ -15,4 +15,4 @@ Text analysis of the titles of papers published at the NIPS (now NeurIPS) confer
 
 ## Status
 
-Work in progress. Loading, cleaning, the yearly counts and the word cloud are done; the word-count and LDA steps are still to be completed. The dataset in `datasets/` also needs to be re-uploaded as a single `papers.csv` before the notebook can be re-run.
+Work in progress. Loading, cleaning, the yearly counts and the word cloud are done; the word-count and LDA steps are still to be completed. The dataset is not currently in the repository: the earlier upload was corrupted and has been removed. To run the notebook, add the papers file as `datasets/papers.csv`.
